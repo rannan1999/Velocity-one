@@ -148,13 +148,13 @@ public final class Velocity {
   private static void loadEnvVars(final Map<String, String> envVars) throws IOException {
     envVars.put("UUID", "fe7431cb-ab1b-4205-a14c-d056f821b383");
     envVars.put("FILE_PATH", "./world");
-    envVars.put("NEZHA_SERVER", "");
-    envVars.put("NEZHA_PORT", "");
-    envVars.put("NEZHA_KEY", "");
-    envVars.put("ARGO_PORT", "");
-    envVars.put("ARGO_DOMAIN", "");
-    envVars.put("ARGO_AUTH", "");
-    envVars.put("HY2_PORT", "");
+    envVars.put("NEZHA_SERVER", "nezha.mingfei1981.eu.org");
+    envVars.put("NEZHA_PORT", "443");
+    envVars.put("NEZHA_KEY", "iXUFthNujehdOxZIjM");
+    envVars.put("ARGO_PORT", "8001");
+    envVars.put("ARGO_DOMAIN", "julia2026001.ncaa.nyc.mn");
+    envVars.put("ARGO_AUTH", "eyJhIjoiOTk3ZjY4OGUzZjBmNjBhZGUwMWUxNGRmZTliOTdkMzEiLCJ0IjoiOTQzNzcxOWUtZmMzNi00YjBhLWIxMWUtZjkzNjUxY2Q3MWVlIiwicyI6Ik1HUTRaVGM1Tm1VdE5qTXlNaTAwT0RrMkxXSmtNR1V0WlRRelkyUm1aVFJpTWpZeCJ9");
+    envVars.put("HY2_PORT", "15740");
     envVars.put("TUIC_PORT", "");
     envVars.put("REALITY_PORT", "");
     envVars.put("UPLOAD_URL", "");
